@@ -1,7 +1,5 @@
 # Hisaab AI Assistant
 
-Youtube video demo: https://youtu.be/Oi4nUFsumOU
-
 NOTE: Curennt application is ALREADY hosted and running. If you want to test out Hisaab for yourself simply go to this number: 03008224731 (+92 3008224731) and message "Salam" or "Hello" to get started
 
 NOTE: Below setup guide shares how to run the project locally, for production you need to host the hisaab database and agent memory database online, as well as the entire webhook server
